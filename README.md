@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I am a Junior majoring in Computer Science at the Uniersity of Cincinnati.
 <!--
 **solankeejalin24/solankeejalin24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
