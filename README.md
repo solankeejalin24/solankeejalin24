@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am a Junior majoring in Computer Science at the Uniersity of Cincinnati.
+### I am a Bachelor of Science in Computer Science from the Univesity of Cincinnati eagerly looking for positions in Software engineering and fields related to Artificial Intelligence and Machine Learning.
 <!--
 **solankeejalin24/solankeejalin24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
